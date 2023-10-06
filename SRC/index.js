@@ -24,4 +24,4 @@ if (xp <= 1000) {
   // Código padrão se nenhuma das condições anteriores for atendida
 }
 
-console.log(`O herói de nome ${heroi} está no nível de ${nivel}.`);
+console.log("O herói de nome " + heroi + " está no nível de " + nivel);
